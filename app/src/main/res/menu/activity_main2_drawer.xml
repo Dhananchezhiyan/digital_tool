@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/leader_board"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Leader Board" />
+        <item
+            android:id="@+id/social"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Social Media" />
+        <item
+            android:id="@+id/chatbot"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Online Friend" />
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Expert Chat" />
+        <item
+            android:id="@+id/feed_news"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="News Feeds" />
+
+    </group>
+
+
+
+</menu>
